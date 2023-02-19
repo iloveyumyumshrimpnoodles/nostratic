@@ -1,0 +1,3 @@
+nostr
+magic
+git+https://github.com/callebtc/python-nostr
